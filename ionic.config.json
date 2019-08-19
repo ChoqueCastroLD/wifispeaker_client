@@ -1,0 +1,7 @@
+{
+  "name": "wifispeaker_client",
+  "integrations": {
+    "cordova": {}
+  },
+  "type": "angular"
+}
